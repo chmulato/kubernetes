@@ -2,7 +2,7 @@
 
 Installing the tools with Chocolatey:  <br /> 
 01- choco install docker-engine   <br />
-01- choco install docker-desktop   <br />
+02- choco install docker-desktop   <br />
 03- choco install k3d   <br />
 04- choco install kubernetes-cli  <br />
 
