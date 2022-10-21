@@ -24,3 +24,5 @@ Main command training:  <br />
 15- kubectl get nodes  <br />
 16- docker container ls  <br />
 17- k3d cluster list  <br />
+18- k3d cluster delete meucluster  <br />
+19- k3d cluster create <br />
