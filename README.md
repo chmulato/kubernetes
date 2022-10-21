@@ -26,3 +26,5 @@ Main command training:  <br />
 17- k3d cluster list  <br />
 18- k3d cluster delete mycluster  <br />
 19- k3d cluster create <br />
+20- kubectl api-resources <br />
+21- kubectl apply -f k8s/pod.yaml <br />
