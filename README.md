@@ -1,6 +1,6 @@
 "# Kubernetes Training" 
 
-installing the tools:  <br /> 
+installing the tools with chocolatey:  <br /> 
 1- choco install k3d   <br />
 2- choco install kubernetes-cli  <br />
 
