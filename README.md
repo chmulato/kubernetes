@@ -5,7 +5,7 @@ installing the tools:
 2- choco install kubernetes-cli
 
 main command:
-1- k3d cluster create
+1- k3d cluster create <br />
 2- k3d cluster list
 3- k3d cluster stop
 4- k3d cluster delete
