@@ -31,3 +31,5 @@ Main command training:  <br />
 22- kubectl get pods  <br />
 23- kubectl describe pod nginx <br />
 24- kubectl port-forward pod/nginx 8080:80 <br />
+25- kubectl delete pod nginx <br />
+26- kubectl get pods  <br />
