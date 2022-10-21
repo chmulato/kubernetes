@@ -28,3 +28,6 @@ Main command training:  <br />
 19- k3d cluster create <br />
 20- kubectl api-resources <br />
 21- kubectl apply -f k8s/pod.yaml <br />
+22- kubectl get pods  <br />
+23- kubectl describe pod nginx <br />
+24- kubectl port-forward pod/nginx 8080:80 <br />
